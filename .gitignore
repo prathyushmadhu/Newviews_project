@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# service json
+src/main/resources/newviews-3dead-firebase-adminsdk-ex56e-6391ffc262.json
